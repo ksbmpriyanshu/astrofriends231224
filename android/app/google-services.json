@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "385098140264",
+    "firebase_url": "https://astrofriends-64b40-default-rtdb.firebaseio.com",
+    "project_id": "astrofriends-64b40",
+    "storage_bucket": "astrofriends-64b40.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:385098140264:android:114cc7fab21ee07e4609dd",
+        "android_client_info": {
+          "package_name": "com.ksbm.friendastro"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCoVKvJjnwMt-Si4r8lOZOKArbthuvEYQM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:385098140264:android:aad72c8f1ebc60dc4609dd",
+        "android_client_info": {
+          "package_name": "com.ksbm.frienduser"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCoVKvJjnwMt-Si4r8lOZOKArbthuvEYQM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
